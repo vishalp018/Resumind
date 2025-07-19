@@ -26,39 +26,23 @@
 
 ---
 
-## 🚨 Tutorial
-
-Want to learn how I built this? Check out the full walkthrough on [YouTube](https://www.youtube.com/watch?v=iYOz165wGkQ), where I explain every step from setup to deployment.
-
-<a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
-  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" />
-</a>
-
----
-
 ## ✨ Introduction
 
-**AI Resume Analyzer** is a powerful, browser-based application that uses AI to evaluate resumes, provide ATS (Applicant Tracking System) scores, and generate personalized feedback for job seekers. 
+**AI Resume Analyzer** is a powerful, browser-based application that uses AI to evaluate resumes, provide ATS (Applicant Tracking System) scores, and generate personalized feedback for job seekers.
 
 With Puter.js, there's no backend required—authentication, file storage, and even AI evaluation happen directly in the browser. Built with a modern stack including **React**, **Tailwind CSS**, and **TypeScript**, the app is highly responsive, modular, and developer-friendly.
-
-Join my growing developer community on [Discord](https://discord.com/invite/n6EdbFJ) if you need help, feedback, or just want to connect!
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank">
-  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" />
-</a>
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **[React](https://react.dev/)** – Front-end library for UI development
-- **[React Router v7](https://reactrouter.com/)** – Powerful client-side routing
-- **[Puter.js](https://jsm.dev/resumind-puterjs)** – Zero-backend SDK for auth, storage, AI & DB
-- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework
-- **[TypeScript](https://www.typescriptlang.org/)** – Typed JavaScript for safer code
-- **[Vite](https://vite.dev/)** – Fast dev server and bundler
-- **[Zustand](https://github.com/pmndrs/zustand)** – Minimal global state manager
+- **[React](https://react.dev/)** – Front-end library for UI development  
+- **[React Router v7](https://reactrouter.com/)** – Powerful client-side routing  
+- **[Puter.js](https://jsm.dev/resumind-puterjs)** – Zero-backend SDK for auth, storage, AI & DB  
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework  
+- **[TypeScript](https://www.typescriptlang.org/)** – Typed JavaScript for safer code  
+- **[Vite](https://vite.dev/)** – Fast dev server and bundler  
+- **[Zustand](https://github.com/pmndrs/zustand)** – Minimal global state manager  
 
 ---
 
